@@ -1,0 +1,197 @@
+[
+  {
+    "name": "#01",
+    "enchantments": [
+      "density",
+      "aqua_affinity",
+      "fire_aspect"
+    ]
+  },
+  {
+    "name": "#02",
+    "enchantments": [
+      "looting",
+      "aqua_affinity"
+    ]
+  },
+  {
+    "name": "#03",
+    "enchantments": [
+      "projectile_protection",
+      "knockback"
+    ]
+  },
+  {
+    "name": "#04",
+    "enchantments": [
+      "power",
+      "depth_strider"
+    ]
+  },
+  {
+    "name": "#05",
+    "enchantments": [
+      "smite",
+      "flame"
+    ]
+  },
+  {
+    "name": "#06",
+    "enchantments": [
+      "piercing",
+      "density"
+    ]
+  },
+  {
+    "name": "#07",
+    "enchantments": [
+      "frost_walker",
+      "piercing",
+      "silk_touch"
+    ]
+  },
+  {
+    "name": "#08",
+    "enchantments": [
+      "riptide",
+      "smite"
+    ]
+  },
+  {
+    "name": "#09",
+    "enchantments": [
+      "efficiency",
+      "breach"
+    ]
+  },
+  {
+    "name": "#10",
+    "enchantments": [
+      "mending"
+    ]
+  },
+  {
+    "name": "#11",
+    "enchantments": [
+      "respiration"
+    ]
+  },
+  {
+    "name": "#12",
+    "enchantments": [
+      "lure"
+    ]
+  },
+  {
+    "name": "#13",
+    "enchantments": [
+      "sharpness"
+    ]
+  },
+  {
+    "name": "#14",
+    "enchantments": [
+      "loyalty"
+    ]
+  },
+  {
+    "name": "#15",
+    "enchantments": [
+      "unbreaking"
+    ]
+  },
+  {
+    "name": "#16",
+    "enchantments": [
+      "fortune",
+      "quick_charge"
+    ]
+  },
+  {
+    "name": "#17",
+    "enchantments": [
+      "mending",
+      "feather_falling"
+    ]
+  },
+  {
+    "name": "#18",
+    "enchantments": [
+      "sweeping_edge",
+      "luck_of_the_sea"
+    ]
+  },
+  {
+    "name": "#19",
+    "enchantments": [
+      "fire_protection",
+      "vanishing_curse"
+    ]
+  },
+  {
+    "name": "#20",
+    "enchantments": [
+      "thorns",
+      "multishot"
+    ]
+  },
+  {
+    "name": "#21",
+    "enchantments": [
+      "multishot",
+      "blast_protection"
+    ]
+  },
+  {
+    "name": "#22",
+    "enchantments": [
+      "aqua_affinity",
+      "flame",
+      "impaling"
+    ]
+  },
+  {
+    "name": "#23",
+    "enchantments": [
+      "channeling",
+      "multishot"
+    ]
+  },
+  {
+    "name": "#24",
+    "enchantments": [
+      "infinity",
+      "fortune",
+      "vanishing_curse"
+    ]
+  },
+  {
+    "name": "#25",
+    "enchantments": [
+      "bane_of_arthropods",
+      "silk_touch"
+    ]
+  },
+  {
+    "name": "#26",
+    "enchantments": [
+      "binding_curse",
+      "flame"
+    ]
+  },
+  {
+    "name": "#27",
+    "enchantments": [
+      "punch",
+      "multishot",
+      "frost_walker"
+    ]
+  },
+  {
+    "name": "#28",
+    "enchantments": [
+      "infinity",
+      "protection"
+    ]
+  }
+]
