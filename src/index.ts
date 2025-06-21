@@ -48,4 +48,8 @@ console.info("6. Created smallest assortment of entities for full coverage");
 // console.log(totalEntities = getTrivialEntities(universe, totalEntities))
 
 //Sort by entity name
+console.log("Villagers to keep:")
 console.log(totalEntities.sort((a, b) => a.name.localeCompare(b.name)));
+console.log("---------------------------")
+console.log("Villagers to discard:")
+console.log(entities.filter(entity => !totalEntities.includes(entity)).sort((a, b) => a.name.localeCompare(b.name)));
